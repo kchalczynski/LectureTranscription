@@ -1,0 +1,5 @@
+renesans 2 = 1h34m
+sztuka renesansu w PL = 1h26m
+
+problemy:
+łączenia - dzielę sobie na powiedzmy 5min fragmenty, ale co jeśli przerywa w trakcie słowa?
